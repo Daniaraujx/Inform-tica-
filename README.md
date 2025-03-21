@@ -11,4 +11,5 @@ segue o link: https://github.com/Daniaraujx/Inform-tica-/blob/main/trabalho%20in
 ![Captura de tela 2025-03-20 204930](https://github.com/user-attachments/assets/9e4189ab-bbdc-4573-a5d9-82481b34bf9a)
 ## quarta atividade .. power bi 
 segue o link: 
+![Captura de tela 2025-03-20 211824](https://github.com/user-attachments/assets/ab1b68f1-7c0c-4bb3-997c-ab7f2435cbbc)
 
