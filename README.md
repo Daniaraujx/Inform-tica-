@@ -12,4 +12,6 @@ segue o link: https://github.com/Daniaraujx/Inform-tica-/blob/main/trabalho%20in
 ## quarta atividade .. power bi 
 segue o link: https://github.com/Daniaraujx/Inform-tica-/blob/main/atividade%204.pbix
 ![Captura de tela 2025-03-20 211824](https://github.com/user-attachments/assets/ab1b68f1-7c0c-4bb3-997c-ab7f2435cbbc)
+## quinta atividade .. power bi com dados abertos
+segue o link:
 
