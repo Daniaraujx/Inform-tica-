@@ -15,3 +15,4 @@ segue o link: https://github.com/Daniaraujx/Inform-tica-/blob/main/atividade%204
 ## quinta atividade .. power bi com dados abertos
 segue o link:
 https://github.com/Daniaraujx/Inform-tica-/blob/main/MARIA%20E%20DANI).pbix%20222.pbix
+![Captura de tela 2025-04-14 191947](https://github.com/user-attachments/assets/f4bf9014-882d-4c66-b74d-8d12d474bb13)
