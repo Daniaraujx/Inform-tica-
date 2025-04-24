@@ -15,5 +15,6 @@ segue o link: https://github.com/Daniaraujx/Inform-tica-/blob/main/atividade%204
 ## 5ª atividade .. Power Bi com Dados Abertos
 segue o link da planilha de base: https://github.com/Daniaraujx/Inform-tica-/blob/main/Atividade%205%20informatica.xlsx
 ![image](https://github.com/user-attachments/assets/6f8b2d95-50be-4a21-a91d-a06ca7d57260)
-segue o link: https://github.com/Daniaraujx/Inform-tica-/blob/main/Atividade%205%20informatica.xlsx
+
+segue do power bi: https://github.com/Daniaraujx/Inform-tica-/blob/main/Atividade%205%20informatica.xlsx
 ![image](https://github.com/user-attachments/assets/4e4cc721-bdf4-44bc-94d8-7a47deb6e977)
