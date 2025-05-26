@@ -18,6 +18,7 @@ segue o link da planilha de base: https://github.com/Daniaraujx/Inform-tica-/blo
 
 segue do power bi: https://github.com/Daniaraujx/Inform-tica-/blob/main/Atividade%205%20informatica.xlsx
 ![image](https://github.com/user-attachments/assets/4e4cc721-bdf4-44bc-94d8-7a47deb6e977)
-## 6º atividade .. Google Colab 
+## 6º atividade .. Google Colab Venda de Casas
 ![image](https://github.com/user-attachments/assets/4ebb82b6-677f-4783-8063-7f441f013747)
- 
+Excel Venda de Casas
+![image](https://github.com/user-attachments/assets/615d1a06-df36-4efc-8eb1-968bd7ab3eab)
