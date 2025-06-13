@@ -27,6 +27,6 @@ Excel Venda de Casas
 segue o link: https://github.com/Daniaraujx/Inform-tica-/blob/main/mariaedani.xlsx
 ![image](https://github.com/user-attachments/assets/615d1a06-df36-4efc-8eb1-968bd7ab3eab)
 
-7º atividade .. Power Apps e Power Automade
+## 7º atividade .. Power Apps e Power Automade
 segue o link: [https://github.com/Daniaraujx/Inform-tica-/blob/main/Grava%C3%A7%C3%A3o%20de%20Tela%202025-06-12%20210816.mp4](https://github.com/Daniaraujx/Inform-tica-/blob/main/Grava%C3%A7%C3%A3o%20de%20Tela%202025-06-12%20210816.mp4)
 ![image](https://github.com/user-attachments/assets/4e8168d4-d17c-4888-9e96-dbd6eb6f4fe4)
