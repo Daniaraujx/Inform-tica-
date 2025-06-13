@@ -29,4 +29,5 @@ segue o link: https://github.com/Daniaraujx/Inform-tica-/blob/main/mariaedani.xl
 
 ## 7º atividade .. Power Apps e Power Automade
 segue o link: [https://github.com/Daniaraujx/Inform-tica-/blob/main/Grava%C3%A7%C3%A3o%20de%20Tela%202025-06-12%20210816.mp4](https://github.com/Daniaraujx/Inform-tica-/blob/main/Grava%C3%A7%C3%A3o%20de%20Tela%202025-06-12%20210816.mp4)
-![image](https://github.com/user-attachments/assets/4e8168d4-d17c-4888-9e96-dbd6eb6f4fe4)
+https://github.com/user-attachments/assets/f9851740-9967-4074-bf96-32490456e41c
+
