@@ -30,7 +30,7 @@ segue o link: https://github.com/Daniaraujx/Inform-tica-/blob/main/mariaedani.xl
 ## 7º atividadade .. Planilha Excel 
 
 ## Sorvetes e Panelas
-![image](https://github.com/user-attachments/assets/25da0ef2-88bc-4ae5-a5c5-a6a07bc7c010)
+![image](https://github.com/user-attachments/assets/4e7903d7-8724-4c16-af45-9c829410493c)
 
 ![Captura de tela 2025-06-16 194315](https://github.com/user-attachments/assets/7d2d823e-b7d9-45f2-b1f2-62a97a9eb989)
 
