@@ -27,7 +27,7 @@ Excel Venda de Casas
 segue o link: https://github.com/Daniaraujx/Inform-tica-/blob/main/mariaedani.xlsx
 ![image](https://github.com/user-attachments/assets/615d1a06-df36-4efc-8eb1-968bd7ab3eab)
 
-## 7º atividadade .. Planilha Excel 
+## 7º atividade .. Planilha Excel 
 
 ## Sorvetes e Panelas
 ![image](https://github.com/user-attachments/assets/4e7903d7-8724-4c16-af45-9c829410493c)
