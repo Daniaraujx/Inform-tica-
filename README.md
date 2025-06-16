@@ -28,12 +28,11 @@ segue o link: https://github.com/Daniaraujx/Inform-tica-/blob/main/mariaedani.xl
 ![image](https://github.com/user-attachments/assets/615d1a06-df36-4efc-8eb1-968bd7ab3eab)
 
 ## 7º atividadade .. Planilha Excel 
-## Panelas e Sorvetes
+
+## Sorvetes e Panelas
 ![image](https://github.com/user-attachments/assets/25da0ef2-88bc-4ae5-a5c5-a6a07bc7c010)
 
 ![Captura de tela 2025-06-16 194315](https://github.com/user-attachments/assets/7d2d823e-b7d9-45f2-b1f2-62a97a9eb989)
-
-![Captura de tela 2025-06-16 194002](https://github.com/user-attachments/assets/6078bdba-0569-4173-8748-b84259d05ca8)
 
 ## Computador e sandálias
 ![Captura de tela 2025-06-16 194002](https://github.com/user-attachments/assets/fca4d180-7c19-4e91-b04d-172372aeaa9d)
