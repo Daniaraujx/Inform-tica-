@@ -42,10 +42,11 @@ segue o link: https://github.com/Daniaraujx/Inform-tica-/blob/main/mariaedani.xl
 
 ## 8º atividade .. Power Apps e Power Automade
 
+
 https://github.com/user-attachments/assets/55fa17fe-185b-44df-87cf-d5a4fd50dfc2
 
 ## 9º atividade .. Power BI Mapa mostrando Contagem de Instalação Distintas por Estado
-![image](https://github.com/user-attachments/assets/b6185959-f729-4515-a858-2c113a2b8296)
+
 
 https://github.com/user-attachments/assets/c21e38a4-9d73-49d0-b643-89062f3defb0
 
