@@ -50,3 +50,9 @@ https://github.com/user-attachments/assets/55fa17fe-185b-44df-87cf-d5a4fd50dfc2
 
 https://github.com/user-attachments/assets/c21e38a4-9d73-49d0-b643-89062f3defb0
 
+## 10º atividade .. Power Apps mostrando:
+[Ano]      [Mês]       [Instalação]      [Estado]     [Produção de Óleo (m³)]
+
+
+https://github.com/user-attachments/assets/80aa2edc-083e-4118-80f4-6101f0b69c72
+
