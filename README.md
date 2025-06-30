@@ -62,6 +62,6 @@ https://github.com/user-attachments/assets/80aa2edc-083e-4118-80f4-6101f0b69c72
 
 
 
-## 11º atividade .. Power Apps enviando um email específico para uma pasta específica:
+## 11º atividade .. Power Automade enviando um email específico para uma pasta específica:
 ![image](https://github.com/user-attachments/assets/daf72fa1-424a-4a3f-a9a8-48ca5ddfe98d)
 
