@@ -45,16 +45,20 @@ segue o link: https://github.com/Daniaraujx/Inform-tica-/blob/main/mariaedani.xl
 
 https://github.com/user-attachments/assets/55fa17fe-185b-44df-87cf-d5a4fd50dfc2
 
-## 9º atividade .. Power BI Mapa mostrando Contagem de Instalação Distintas por Estado
+## 9º atividade .. Power BI Mapa mostrando Contagem de Instalação Distintas por Estado (Avaliação)
 
 
 https://github.com/user-attachments/assets/c21e38a4-9d73-49d0-b643-89062f3defb0
 
-## 10º atividade .. Power Apps mostrando:
+
+
+## 10º atividade .. Power Apps mostrando (Avaliação):
 [Ano]      [Mês]       [Instalação]      [Estado]     [Produção de Óleo (m³)]
 
 
 https://github.com/user-attachments/assets/80aa2edc-083e-4118-80f4-6101f0b69c72
+
+
 
 ## 11º atividade .. Power Apps enviando um email específico para uma pasta específica:
 ![image](https://github.com/user-attachments/assets/daf72fa1-424a-4a3f-a9a8-48ca5ddfe98d)
